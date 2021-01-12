@@ -1,6 +1,6 @@
 # MenuManager
 
-##Java Code
+## Java Code
 
 ```java
     @Override
