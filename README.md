@@ -1,5 +1,7 @@
 # MenuManager
 
+##Java Code
+
 ```java
     @Override
     public void onEnable() {
