@@ -13,3 +13,21 @@
     }
 
 ```
+
+## Menu.yml
+
+```yml
+menus:
+  exampleMenu:
+    title: "Title"
+    rows: 5
+    items:
+      - 5: exampleItem
+items:
+  exampleItem:
+    material: Stone
+    title: "&eExample Item"
+    lore:
+      - "&eExample Lore"
+      - "..."
+```
